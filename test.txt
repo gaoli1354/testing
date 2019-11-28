@@ -1,1 +1,2 @@
 'xiaoqiang running' 
+'wugui running' 
